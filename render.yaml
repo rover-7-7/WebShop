@@ -4,4 +4,3 @@ services:
     env: static
     staticPublishPath: .
     buildCommand: "" # No build command needed for static files
-    plan: free
